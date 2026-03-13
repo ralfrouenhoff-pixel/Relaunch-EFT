@@ -89,7 +89,7 @@ export default function CTASection() {
                 <ArrowRight className="relative w-5 h-5 group-hover:translate-x-1 transition-transform" />
               </Link>
               <Link
-                href="/courses"
+                href="/course"
                 className="flex items-center justify-center gap-2 px-9 py-5 border border-white/15 hover:border-white/30 text-white font-semibold text-lg rounded-2xl transition-all hover:bg-white/[0.07]"
               >
                 Strecken ansehen

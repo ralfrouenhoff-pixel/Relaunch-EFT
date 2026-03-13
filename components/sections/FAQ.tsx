@@ -11,7 +11,7 @@ const faqs = [
   },
   {
     q: "Was muss ich zum Wettkampf mitbringen?",
-    a: "Du benötigst deinen Starterbeutel (Startnummer, Chip-Transponder, Schwimmkappe), dein Fahrrad mit Helm und deine Laufschuhe. Eine vollständige Checkliste findest du auf der Athleten-Info Seite.",
+    a: "Du benötigst deinen Starterbeutel (Startnummer, Chip-Transponder, Schwimmkappe), dein Fahrrad mit Helm und deine Laufschuhe. Eine vollständige Checkliste findest du auf der Info-Seite.",
   },
   {
     q: "Gibt es ein Mindestalter?",

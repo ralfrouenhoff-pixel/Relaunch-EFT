@@ -203,7 +203,7 @@ export default function Hero() {
               <ArrowRight className="relative w-5 h-5 group-hover:translate-x-1 transition-transform duration-200" />
             </Link>
             <Link
-              href="/courses"
+              href="/course"
               className="flex items-center gap-2 px-8 py-4 bg-white/[0.07] hover:bg-white/[0.12] border border-white/15 hover:border-white/30 text-white font-semibold text-lg rounded-2xl transition-all duration-300 backdrop-blur-sm"
             >
               Strecken ansehen

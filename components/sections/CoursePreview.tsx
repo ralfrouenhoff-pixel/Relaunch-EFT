@@ -116,7 +116,7 @@ export default function CoursePreview() {
                 <p className="text-white/50 leading-relaxed mb-6">{course.description}</p>
 
                 <Link
-                  href="/courses"
+                  href="/course"
                   className="flex items-center gap-2 w-fit text-primary hover:text-white font-semibold text-sm transition-colors group"
                 >
                   Detailkarte ansehen
